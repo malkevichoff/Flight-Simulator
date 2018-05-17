@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airplanes.Plugins", "Airplanes.Plugins.csproj", "{3C4054E5-79EF-AAEC-1D08-014C39F3DD0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airplanes", "Airplanes.csproj", "{C2257469-4688-EA38-BF23-EFE199A43C81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airplanes.Editor.Plugins", "Airplanes.Editor.Plugins.csproj", "{F7A509B1-4D22-2F78-4250-57E94257E5C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C4054E5-79EF-AAEC-1D08-014C39F3DD0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4054E5-79EF-AAEC-1D08-014C39F3DD0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4054E5-79EF-AAEC-1D08-014C39F3DD0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4054E5-79EF-AAEC-1D08-014C39F3DD0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2257469-4688-EA38-BF23-EFE199A43C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2257469-4688-EA38-BF23-EFE199A43C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2257469-4688-EA38-BF23-EFE199A43C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2257469-4688-EA38-BF23-EFE199A43C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A509B1-4D22-2F78-4250-57E94257E5C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A509B1-4D22-2F78-4250-57E94257E5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A509B1-4D22-2F78-4250-57E94257E5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A509B1-4D22-2F78-4250-57E94257E5C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
